@@ -17,7 +17,9 @@ I'm a passionate developer who loves crafting beautiful and functional web exper
 - Plus many exciting side projects in the pipeline!
 
 ### What I'm Working On
-- React, TypeScript, Django
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### Always Learning
 - Machine Learning / Large Language Models (ML/LLM)  
@@ -35,4 +37,4 @@ I love coding so much, I sometimes dream in code! 😄
 
 ---
 
-Feel free to explore my repositories and connect with me. Let’s build something amazing together! ⭐️
+Feel free to explore my repositories and connect with me.
