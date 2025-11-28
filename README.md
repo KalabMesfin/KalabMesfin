@@ -2,24 +2,24 @@
 
 Full-stack 3D dev, Web3 enthusiast, and cybersecurity explorer.
 
-## 🔭 Current Projects
+## Current Projects
 
 - [zKrypt FHE ICO](https://github.com/kalabmesfin/zKrypt-FHE-ICO) - First FHE-enabled ICO on Zama blockchain
 - [Anime Archive](https://github.com/KalabMesfin/AnimeArchive) - Anime collection and cataloging app
 - [Helix Ethereum Wallet](https://github.com/KalabMesfin/Helix-Ethereum-Wallet) - Secure Ethereum wallet dApp
 
-## 🛠️ Skills
+## Skills
 ```
 - Three.js
 - Solidity  
 - React
 - Nmap | Metasploit
 ```
-## 🌍 Location
+## Location
 
 Ethiopia 🇪🇹 | EAT (UTC+3)
 
-## 📱 Connect
+## Connect
 
 - **GitHub**: [kalabmesfin](https://github.com/kalabmesfin)
 - **X/Twitter**: [@ZiAlch](https://x.com/ZiAlch)
@@ -27,6 +27,6 @@ Ethiopia 🇪🇹 | EAT (UTC+3)
 
 ---
 
-> "Engineering decentralized experiences with 3D + Web3 + security"
+> Engineering decentralized experiences with 3D + Web3 + security
 
 ---
