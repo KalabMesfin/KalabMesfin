@@ -22,8 +22,8 @@ Ethiopia 🇪🇹 | EAT (UTC+3)
 # Connect
 
 - **GitHub**: [kalabmesfin](https://github.com/kalabmesfin)
-- **X/Twitter**: [@ZiAlch](https://x.com/ZiAlch)
-- **Telegram**: [@CodeForChrist](https://t.me/CodeForChrist)
+- **X/Twitter**: [ZiAlch](https://x.com/ZiAlch)
+- **Telegram**: [CodeForChrist](https://t.me/CodeForChrist)
 
 ---
 
