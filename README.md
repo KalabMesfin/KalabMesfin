@@ -1,40 +1,34 @@
-# Hi there, I'm KALAB MESFIN 👋
+# I'm Kalab 
 
-I'm a passionate developer who loves crafting beautiful and functional web experiences. Most of the time, I focus on **frontend development**, but I also enjoy diving into **backend** work when the opportunity arises.
+Full-stack 3D dev, Web3 enthusiast, and cybersecurity explorer.
 
-### Technologies I Work With
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+## 🔭 Current Projects
 
-### Some of My Projects
-- [Lucid Modern Bank App](#) – A sleek, modern banking application  
-- [Minimalist 3D Animated Portfolio](#) – Showcasing creativity with 3D animations  
-- [Helix Ethereum Wallet](#) – A secure and user-friendly crypto wallet  
-- Plus many exciting side projects in the pipeline!
+- [zKrypt FHE ICO](https://github.com/kalabmesfin/zKrypt-FHE-ICO) - First FHE-enabled ICO on Zama blockchain
+- [Anime Archive](https://github.com/KalabMesfin/AnimeArchive) - Anime collection and cataloging app
+- [Helix Ethereum Wallet](https://github.com/KalabMesfin/Helix-Ethereum-Wallet) - Secure Ethereum wallet dApp
 
-### What I'm Working On
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+## 🛠️ Skills
 
-### Always Learning
-- Machine Learning / Large Language Models (ML/LLM)  
-- Cybersecurity  
-- Artificial Intelligence (AI)
+- Three.js
+- Solidity  
+- React
+- Nmap | Metasploit
 
-### How to Reach Me
-- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodeForChrist)
-- [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kalabcodes)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalabmesfin)
-- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/phantomexile)
+## 🌍 Location
 
-### Fun Fact
-I love coding so much, I sometimes dream in code! 😄
+Ethiopia 🇪🇹 | EAT (UTC+3)
+
+## 📱 Connect
+
+- **GitHub**: [kalabmesfin](https://github.com/kalabmesfin)
+- **X/Twitter**: [@ZiAlch](https://x.com/ZiAlch)
+- **Telegram**: [@CodeForChrist](https://t.me/CodeForChrist)
 
 ---
 
-Feel free to explore my repositories and connect with me.
+> "Building the first FHE ICO on Zama 🛸"
+
+---
+
+![Kalab's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalabmesfin&show_icons=true&hide_title=true&count_private=true&theme=dark)
